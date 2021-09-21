@@ -1,2 +1,2 @@
-# ThreeJS
-This is an ongoing development project in which I'm learning three.js.
+# Galaxy-Cube
+a simple program that will render a 3d cube with spin. 
